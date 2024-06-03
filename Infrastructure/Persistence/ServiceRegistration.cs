@@ -13,10 +13,11 @@ namespace Persistence
 {
 	public static class ServiceRegistration //  extentions for sign dependency injection
 	{
-		public static void AddPersistenceService(this IServiceCollection serviceCollection)
+		public static void AddPersistenceRegistration(this IServiceCollection serviceCollection)
 		{
 			serviceCollection.AddDbContext<ApplicationDbContext>(opt=>opt.UseInMemoryDatabase("memoryDb"));
 			serviceCollection.AddTransient<IProductRepository, ProductRepository>();
+
 		}
 	}
 }

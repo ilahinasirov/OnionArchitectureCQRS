@@ -11,21 +11,12 @@ namespace Application.Wrappers
 		public int PageNumber { get; set; }
 		public int PageSize { get; set; }
 
-        public PagedResponse(T value): base(value)
+     
+        public PagedResponse(T value, int pageNumber, int pageSize):base(value)
         {
-                
-        }
-        public PagedResponse()
-        {
-            PageNumber = 1;
-            PageSize = 10;
-        }
+	        PageNumber = pageNumber;
+	        PageSize = pageSize;
 
-        public PagedResponse(int pageNumber, int pageSize)
-        {
-            PageNumber = pageNumber;
-            PageSize = pageSize;
-            
         }
-    }
+	}
 }

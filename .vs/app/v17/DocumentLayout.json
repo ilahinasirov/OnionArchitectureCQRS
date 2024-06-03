@@ -3,68 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Nasirov\\source\\repos\\app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\features\\handlers\\queryhandlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\handlers\\queryhandlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\mapping\\generalmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\mapping\\generalmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\features\\queries\\getproductbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\queries\\getproductbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\viewmodels\\productviewmodels\\getproductbyidviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\viewmodels\\productviewmodels\\getproductbyidviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7872A3C8-9C97-427E-99CD-5F74897DC658}|src\\WebApi\\WebApi.csproj|c:\\users\\nasirov\\source\\repos\\app\\src\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7872A3C8-9C97-427E-99CD-5F74897DC658}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7872A3C8-9C97-427E-99CD-5F74897DC658}|src\\WebApi\\WebApi.csproj|c:\\users\\nasirov\\source\\repos\\app\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7872A3C8-9C97-427E-99CD-5F74897DC658}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAD22254-2098-44A1-B71E-DCEF1F502853}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\nasirov\\source\\repos\\app\\infrastructure\\persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAD22254-2098-44A1-B71E-DCEF1F502853}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\dto\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\dto\\productviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAD22254-2098-44A1-B71E-DCEF1F502853}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\nasirov\\source\\repos\\app\\infrastructure\\persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAD22254-2098-44A1-B71E-DCEF1F502853}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAD22254-2098-44A1-B71E-DCEF1F502853}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\nasirov\\source\\repos\\app\\infrastructure\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAD22254-2098-44A1-B71E-DCEF1F502853}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\wrappers\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\wrappers\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\wrappers\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\wrappers\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAD22254-2098-44A1-B71E-DCEF1F502853}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\nasirov\\source\\repos\\app\\infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAD22254-2098-44A1-B71E-DCEF1F502853}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6190C8DE-CB85-46FA-897D-685F2866EC29}|src\\Core\\Domain\\Domain.csproj|c:\\users\\nasirov\\source\\repos\\app\\src\\core\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6190C8DE-CB85-46FA-897D-685F2866EC29}|src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6190C8DE-CB85-46FA-897D-685F2866EC29}|src\\Core\\Domain\\Domain.csproj|c:\\users\\nasirov\\source\\repos\\app\\src\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6190C8DE-CB85-46FA-897D-685F2866EC29}|src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\parametres\\requestparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\parametres\\requestparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|c:\\users\\nasirov\\source\\repos\\app\\core\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6EAD58B-9B68-4FE8-98F8-0484E7C48CA5}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,210 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\WebApi\\Program.cs",
-              "RelativeToolTip": "src\\WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "DocumentIndex": 1,
+              "Title": "GeneralMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Mapping\\GeneralMappingProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Mapping\\GeneralMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Mapping\\GeneralMappingProfile.cs",
+              "RelativeToolTip": "Core\\Application\\Mapping\\GeneralMappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T06:43:06.674Z",
+              "WhenOpened": "2024-05-31T14:01:09.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Features\\Queries\\GetProductById\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Queries\\GetProductById\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Features\\Queries\\GetProductById\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Queries\\GetProductById\\GetProductByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:59:27.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Infrastructure\\Persistence\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Infrastructure\\Persistence\\ServiceRegistration.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "Title": "GetProductByIdViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\ViewModels\\ProductViewModels\\GetProductByIdViewModel.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\ViewModels\\ProductViewModels\\GetProductByIdViewModel.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\ViewModels\\ProductViewModels\\GetProductByIdViewModel.cs",
+              "RelativeToolTip": "Core\\Application\\ViewModels\\ProductViewModels\\GetProductByIdViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T06:26:43.412Z",
+              "WhenOpened": "2024-05-31T13:55:00.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\ServiceRegistration.cs",
-              "RelativeToolTip": "Core\\Application\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Features\\Handlers\\QueryHandlers\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Handlers\\QueryHandlers\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Features\\Handlers\\QueryHandlers\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Handlers\\QueryHandlers\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T06:25:33.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\WebApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\WebApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "src\\WebApi\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T05:49:02.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PagedResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Wrappers\\PagedResponse.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Wrappers\\PagedResponse.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Wrappers\\PagedResponse.cs",
-              "RelativeToolTip": "Core\\Application\\Wrappers\\PagedResponse.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:52:31.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Wrappers\\ServiceResponse.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Wrappers\\ServiceResponse.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Wrappers\\ServiceResponse.cs",
-              "RelativeToolTip": "Core\\Application\\Wrappers\\ServiceResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:50:04.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:45:37.617Z",
+              "WhenOpened": "2024-05-31T13:37:22.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductViewDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Dto\\ProductViewDto.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Dto\\ProductViewDto.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Dto\\ProductViewDto.cs",
-              "RelativeToolTip": "Core\\Application\\Dto\\ProductViewDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:39:35.343Z",
+              "WhenOpened": "2024-05-31T11:11:50.832Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Wrappers\\BaseResponse.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Wrappers\\BaseResponse.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Wrappers\\BaseResponse.cs",
-              "RelativeToolTip": "Core\\Application\\Wrappers\\BaseResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:48:13.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:49:21.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Interfaces\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Interfaces\\Repository\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Interfaces\\Repository\\IProductRepository.cs",
-              "RelativeToolTip": "Core\\Application\\Interfaces\\Repository\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:59:46.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RequestParameter.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Parametres\\RequestParameter.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Parametres\\RequestParameter.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Parametres\\RequestParameter.cs",
-              "RelativeToolTip": "Core\\Application\\Parametres\\RequestParameter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:20:34.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T13:34:09.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\Core\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\Core\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "src\\Core\\Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:28:23.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\Core\\Domain\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Domain\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\src\\Core\\Domain\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "src\\Core\\Domain\\Common\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:29:13.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Exceptions\\ValidationException.cs",
-              "RelativeDocumentMoniker": "Core\\Application\\Exceptions\\ValidationException.cs",
-              "ToolTip": "C:\\Users\\Nasirov\\source\\repos\\app\\Core\\Application\\Exceptions\\ValidationException.cs",
-              "RelativeToolTip": "Core\\Application\\Exceptions\\ValidationException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:41:54.647Z"
             }
           ]
         }

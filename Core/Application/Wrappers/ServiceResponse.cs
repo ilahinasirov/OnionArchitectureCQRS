@@ -14,9 +14,6 @@ namespace Application.Wrappers
         {
             Value = value;   
         }
-        public ServiceResponse()
-        {
-                
-        }
+      
     }
 }

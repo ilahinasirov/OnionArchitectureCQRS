@@ -17,3 +17,4 @@ C:\Users\Nasirov\source\repos\app\Infrastructure\Persistence\obj\Debug\net8.0\re
 C:\Users\Nasirov\source\repos\app\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.pdb
 C:\Users\Nasirov\source\repos\app\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
 C:\Users\Nasirov\source\repos\app\Infrastructure\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\Nasirov\source\repos\app\Infrastructure\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
